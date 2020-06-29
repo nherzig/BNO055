@@ -1,0 +1,3 @@
+* change frequency to avoid issue peak value
+* make more robust by refusing data
+* merge thread save acquisition and plot with BNO055

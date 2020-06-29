@@ -20,6 +20,7 @@ i2c-dev
 ```bash
 sudo apt-get install python-smbus
 sudo apt-get install i2c-tools
+sudo pip3 install pandas
 ```
 python-smbus is the python module that we use for I2C communication on the Raspberry Pi.
 
